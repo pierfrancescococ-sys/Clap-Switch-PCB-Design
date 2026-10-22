@@ -104,7 +104,7 @@ Clap-Switch-PCB-Design/
 - **Academic context:** Equipment Design and Material Engineering, Lodz University of Technology
 - **Tools:** EasyEDA Pro; JLCPCB; component datasheets and supplier catalogues
 - **Technical report:** [`docs/clap-switch-technical-report-public.pdf`](docs/clap-switch-technical-report-public.pdf) (student identifier removed)
-- **Reference circuit:** General clap-switch architecture adapted from an Electronics Hub reference, acknowledged in the original report (exact link to be added only if verified)
+- **Reference circuit:** General clap-switch architecture adapted from an Electronics Hub reference.
 
 **Safety:** This project demonstrates low-voltage laboratory switching only. The materials do not establish electrical safety for direct connection to mains, or conformance with applicable product safety requirements. Do not connect mains voltage based solely on this design.
 
