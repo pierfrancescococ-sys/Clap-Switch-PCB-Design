@@ -1,4 +1,4 @@
-# Clap-Activated Switch — PCB Design, Fabrication & Hardware Testing
+# Clap-Switch — PCB Design, Fabrication & Hardware Testing
 
 **An end-to-end electronics project developed at Lodz University of Technology, from a practical need to a fabricated and laboratory-tested PCB.**
 
